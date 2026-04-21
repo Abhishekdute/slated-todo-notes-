@@ -1,10 +1,7 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:provider/provider.dart';
-import 'package:animate_do/animate_do.dart';
 
-import '../../core/user/user_manager.dart';
 import '../../main.dart';
 import '../../models/note_model.dart';
 import '../../utils/colors.dart';

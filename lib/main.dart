@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:provider/provider.dart';
 
-import 'data/local_data_service.dart';
+import 'vault/local_data_service.dart';
 import 'models/todo_model.dart';
 import 'models/note_model.dart';
-import 'view/home/home_view.dart';
+import 'view/dashboard/home_view.dart';
 import 'core/theme/theme_manager.dart';
 import 'core/theme/app_theme.dart';
 import 'core/user/user_manager.dart';
